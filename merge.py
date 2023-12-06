@@ -6,7 +6,7 @@ def merge_tiff_files(input_directory, output_filename):
   """
     Merges the given input tif images. 
     Args:
-        src_file_path (str): Path to the tif images.
+        input_directory(str): Path to the tif images.
         output_filename (str): Path to save the output merged file.
     """
     # Get list of all tif files in the directory
