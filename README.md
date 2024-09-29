@@ -71,9 +71,3 @@ Performance was evaluated using:
 The **CNN** outperformed the **MLP** in recognizing digits from the **SVHN dataset**, particularly in more complex and varied scenes. Its convolutional layers allowed it to capture spatial relationships in the images, making it the better choice for real-world image recognition tasks.
 
 Future work could explore more complex CNN architectures or incorporate other machine learning algorithms for further improvements.
-
-## Installation
-To run the project locally, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
